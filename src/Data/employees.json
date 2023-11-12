@@ -1,0 +1,149 @@
+{
+    "employees": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "position": "Marketing Specialist",
+        "department": "Marketing",
+        "join_date": "2021-05-15",
+        "salary": 70000,
+        "contact": {
+          "email": "alice.johnson@example.com",
+          "phone": "+1 (555) 234-5678"
+        },
+        "address": {
+          "street": "456 Oak St",
+          "city": "Cityville",
+          "state": "NY",
+          "zip_code": "54321"
+        }
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "position": "Financial Analyst",
+        "department": "Finance",
+        "join_date": "2021-09-10",
+        "salary": 75000,
+        "contact": {
+          "email": "bob.smith@example.com",
+          "phone": "+1 (555) 345-6789"
+        },
+        "address": {
+          "street": "789 Pine Ln",
+          "city": "Townburg",
+          "state": "TX",
+          "zip_code": "67890"
+        }
+      },
+      {
+        "id": 103,
+        "name": "Catherine Lee",
+        "position": "HR Manager",
+        "department": "Human Resources",
+        "join_date": "2020-12-01",
+        "salary": 90000,
+        "contact": {
+          "email": "catherine.lee@example.com",
+          "phone": "+1 (555) 456-7890"
+        },
+        "address": {
+          "street": "321 Maple Blvd",
+          "city": "Villagetown",
+          "state": "FL",
+          "zip_code": "12345"
+        }
+      },
+      {
+        "id": 104,
+        "name": "David Wang",
+        "position": "IT Specialist",
+        "department": "Information Technology",
+        "join_date": "2022-03-20",
+        "salary": 80000,
+        "contact": {
+          "email": "david.wang@example.com",
+          "phone": "+1 (555) 567-8901"
+        },
+        "address": {
+          "street": "987 Birch Ave",
+          "city": "Techville",
+          "state": "CA",
+          "zip_code": "34567"
+        }
+      },
+      {
+        "id": 105,
+        "name": "Eva Rodriguez",
+        "position": "Customer Support Representative",
+        "department": "Customer Service",
+        "join_date": "2022-06-05",
+        "salary": 60000,
+        "contact": {
+          "email": "eva.rodriguez@example.com",
+          "phone": "+1 (555) 678-9012"
+        },
+        "address": {
+          "street": "654 Elm Rd",
+          "city": "Supporttown",
+          "state": "IL",
+          "zip_code": "56789"
+        }
+      },
+      {
+        "id": 106,
+        "name": "Frank Davis",
+        "position": "Operations Manager",
+        "department": "Operations",
+        "join_date": "2021-02-15",
+        "salary": 85000,
+        "contact": {
+          "email": "frank.davis@example.com",
+          "phone": "+1 (555) 789-0123"
+        },
+        "address": {
+          "street": "210 Cedar Street",
+          "city": "Operationstown",
+          "state": "OH",
+          "zip_code": "45678"
+        }
+      },
+      {
+        "id": 107,
+        "name": "Grace Chen",
+        "position": "Sales Representative",
+        "department": "Sales",
+        "join_date": "2022-08-12",
+        "salary": 70000,
+        "contact": {
+          "email": "grace.chen@example.com",
+          "phone": "+1 (555) 890-1234"
+        },
+        "address": {
+          "street": "753 Pine Ridge",
+          "city": "Salestown",
+          "state": "GA",
+          "zip_code": "67890"
+        }
+      },
+      {
+        "id": 108,
+        "name": "Harry Turner",
+        "position": "Quality Assurance Engineer",
+        "department": "Quality Assurance",
+        "join_date": "2022-01-30",
+        "salary": 75000,
+        "contact": {
+          "email": "harry.turner@example.com",
+          "phone": "+1 (555) 901-2345"
+        },
+        "address": {
+          "street": "876 Oak Lane",
+          "city": "QAville",
+          "state": "MI",
+          "zip_code": "23456"
+        }
+      }
+    ]
+  }
+  
